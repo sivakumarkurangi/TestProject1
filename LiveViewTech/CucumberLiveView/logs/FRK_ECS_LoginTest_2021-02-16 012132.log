@@ -1,0 +1,26 @@
+com.surveillance.utilitiy.GenericKeywords.highlightElement(GenericKeywords.java:299)evel	2021-02-16 13:21:42 LoginPage: highlightElement action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:134)evel	2021-02-16 13:21:42 LoginPage: find element action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:135)evel	2021-02-16 13:21:42 LoginPage: locator indicator is : xpath
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:136)evel	2021-02-16 13:21:42 LoginPage: locator value is : //*[@id="email"]
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:164)evel	2021-02-16 13:21:42 LoginPage: find element action is Completed
+com.surveillance.utilitiy.GenericKeywords.highlightElement(GenericKeywords.java:304)evel	2021-02-16 13:21:42 LoginPage: highlightElement action is Completed
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:134)evel	2021-02-16 13:21:42 LoginPage: find element action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:135)evel	2021-02-16 13:21:42 LoginPage: locator indicator is : xpath
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:136)evel	2021-02-16 13:21:42 LoginPage: locator value is : //*[@id="email"]
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:164)evel	2021-02-16 13:21:42 LoginPage: find element action is Completed
+com.surveillance.utilitiy.GenericKeywords.clearEnter(GenericKeywords.java:555)evel	2021-02-16 13:21:42 LoginPage: clear and enter data is : User Name
+com.surveillance.utilitiy.GenericKeywords.clearEnter(GenericKeywords.java:556)evel	2021-02-16 13:21:42 LoginPage: clear and enter action is completed
+com.surveillance.utilitiy.GenericKeywords.enterData(GenericKeywords.java:260)evel	2021-02-16 13:21:42 LoginPage: enter data action is started
+com.surveillance.utilitiy.GenericKeywords.highlightElement(GenericKeywords.java:299)evel	2021-02-16 13:21:42 LoginPage: highlightElement action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:134)evel	2021-02-16 13:21:42 LoginPage: find element action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:135)evel	2021-02-16 13:21:42 LoginPage: locator indicator is : xpath
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:136)evel	2021-02-16 13:21:42 LoginPage: locator value is : //*[@id="password"]
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:167)evel	2021-02-16 13:21:57 LoginPage: element is not found:org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="password"]"}
+  (Session info: chrome=88.0.4324.150)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-9U9EC1K', ip: '192.168.29.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.150, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bbbff10f66cec343e99432137e06bb72
+*** Element info: {Using=xpath, value=//*[@id="password"]}

@@ -1,0 +1,17 @@
+com.surveillance.utilitiy.GenericKeywords.highlightElement(GenericKeywords.java:303)evel	2021-02-16 19:41:14 LoginPage: highlightElement action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:138)evel	2021-02-16 19:41:14 LoginPage: find element action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:139)evel	2021-02-16 19:41:14 LoginPage: locator indicator is : xpath
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:140)evel	2021-02-16 19:41:14 LoginPage: locator value is : //*[@id="email"]
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:171)evel	2021-02-16 19:41:30 LoginPage: element is not found:org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="email"]"}
+  (Session info: chrome=88.0.4324.150)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-9U9EC1K', ip: '192.168.29.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.150, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:57422}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7c95a207edae60f24cbfd09c8ad2a1b5
+*** Element info: {Using=xpath, value=//*[@id="email"]}
+com.surveillance.utilitiy.GenericKeywords.openBrowser(GenericKeywords.java:67)evel	2021-02-16 19:41:31 LoginTest: openBrowser action is started
+com.surveillance.utilitiy.GenericKeywords.openBrowser(GenericKeywords.java:112)evel	2021-02-16 19:41:32 LoginTest: Chrome launched successfully
+com.surveillance.utilitiy.GenericKeywords.openURL(GenericKeywords.java:225)evel	2021-02-16 19:41:32 LoginTest: Enter the URL action is started
+com.surveillance.utilitiy.GenericKeywords.openURL(GenericKeywords.java:227)evel	2021-02-16 19:41:37 LoginTest: https://qa.liveviewtech.com/ opened successfully

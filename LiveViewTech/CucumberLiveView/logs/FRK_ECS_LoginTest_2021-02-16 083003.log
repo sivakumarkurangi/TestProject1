@@ -1,0 +1,48 @@
+com.surveillance.utilitiy.GenericKeywords.highlightElement(GenericKeywords.java:304)evel	2021-02-16 20:30:12 LoginPage: highlightElement action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:139)evel	2021-02-16 20:30:12 LoginPage: find element action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:140)evel	2021-02-16 20:30:12 LoginPage: locator indicator is : xpath
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:141)evel	2021-02-16 20:30:12 LoginPage: locator value is : //*[@id="email"]
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:169)evel	2021-02-16 20:30:12 LoginPage: find element action is Completed
+com.surveillance.utilitiy.GenericKeywords.highlightElement(GenericKeywords.java:309)evel	2021-02-16 20:30:12 LoginPage: highlightElement action is Completed
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:139)evel	2021-02-16 20:30:12 LoginPage: find element action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:140)evel	2021-02-16 20:30:12 LoginPage: locator indicator is : xpath
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:141)evel	2021-02-16 20:30:12 LoginPage: locator value is : //*[@id="email"]
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:169)evel	2021-02-16 20:30:12 LoginPage: find element action is Completed
+com.surveillance.utilitiy.GenericKeywords.clearEnter(GenericKeywords.java:560)evel	2021-02-16 20:30:12 LoginPage: clear and enter data is : sclient927+FSAR@gmail.com
+com.surveillance.utilitiy.GenericKeywords.clearEnter(GenericKeywords.java:561)evel	2021-02-16 20:30:12 LoginPage: clear and enter action is completed
+com.surveillance.utilitiy.GenericKeywords.highlightElement(GenericKeywords.java:304)evel	2021-02-16 20:30:13 LoginPage: highlightElement action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:139)evel	2021-02-16 20:30:13 LoginPage: find element action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:140)evel	2021-02-16 20:30:13 LoginPage: locator indicator is : xpath
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:141)evel	2021-02-16 20:30:13 LoginPage: locator value is : //*[@id="authForm"]/div/div/button
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:169)evel	2021-02-16 20:30:13 LoginPage: find element action is Completed
+com.surveillance.utilitiy.GenericKeywords.highlightElement(GenericKeywords.java:309)evel	2021-02-16 20:30:13 LoginPage: highlightElement action is Completed
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:139)evel	2021-02-16 20:30:13 LoginPage: find element action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:140)evel	2021-02-16 20:30:13 LoginPage: locator indicator is : xpath
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:141)evel	2021-02-16 20:30:13 LoginPage: locator value is : //*[@id="authForm"]/div/div/button
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:169)evel	2021-02-16 20:30:13 LoginPage: find element action is Completed
+com.surveillance.utilitiy.GenericKeywords.enterData(GenericKeywords.java:265)evel	2021-02-16 20:30:14 LoginPage: enter data action is started
+com.surveillance.utilitiy.GenericKeywords.highlightElement(GenericKeywords.java:304)evel	2021-02-16 20:30:14 LoginPage: highlightElement action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:139)evel	2021-02-16 20:30:14 LoginPage: find element action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:140)evel	2021-02-16 20:30:14 LoginPage: locator indicator is : xpath
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:141)evel	2021-02-16 20:30:14 LoginPage: locator value is : //*[@id="password"]
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:169)evel	2021-02-16 20:30:14 LoginPage: find element action is Completed
+com.surveillance.utilitiy.GenericKeywords.highlightElement(GenericKeywords.java:309)evel	2021-02-16 20:30:14 LoginPage: highlightElement action is Completed
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:139)evel	2021-02-16 20:30:14 LoginPage: find element action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:140)evel	2021-02-16 20:30:14 LoginPage: locator indicator is : xpath
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:141)evel	2021-02-16 20:30:14 LoginPage: locator value is : //*[@id="password"]
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:169)evel	2021-02-16 20:30:14 LoginPage: find element action is Completed
+com.surveillance.utilitiy.GenericKeywords.enterData(GenericKeywords.java:268)evel	2021-02-16 20:30:14 LoginPage: enter data action is Completed
+com.surveillance.utilitiy.GenericKeywords.highlightElement(GenericKeywords.java:304)evel	2021-02-16 20:30:14 LoginPage: highlightElement action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:139)evel	2021-02-16 20:30:14 LoginPage: find element action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:140)evel	2021-02-16 20:30:14 LoginPage: locator indicator is : xpath
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:141)evel	2021-02-16 20:30:14 LoginPage: locator value is : //*[@id="authForm"]/div/div/button
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:169)evel	2021-02-16 20:30:14 LoginPage: find element action is Completed
+com.surveillance.utilitiy.GenericKeywords.highlightElement(GenericKeywords.java:309)evel	2021-02-16 20:30:14 LoginPage: highlightElement action is Completed
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:139)evel	2021-02-16 20:30:14 LoginPage: find element action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:140)evel	2021-02-16 20:30:14 LoginPage: locator indicator is : xpath
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:141)evel	2021-02-16 20:30:14 LoginPage: locator value is : //*[@id="authForm"]/div/div/button
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:169)evel	2021-02-16 20:30:14 LoginPage: find element action is Completed
+com.surveillance.utilitiy.GenericKeywords.openBrowser(GenericKeywords.java:68)evel	2021-02-16 20:30:21 LoginTest: openBrowser action is started
+com.surveillance.utilitiy.GenericKeywords.openBrowser(GenericKeywords.java:113)evel	2021-02-16 20:30:22 LoginTest: Chrome launched successfully
+com.surveillance.utilitiy.GenericKeywords.openURL(GenericKeywords.java:226)evel	2021-02-16 20:30:22 LoginTest: Enter the URL action is started
+com.surveillance.utilitiy.GenericKeywords.openURL(GenericKeywords.java:228)evel	2021-02-16 20:30:27 LoginTest: https://qa.liveviewtech.com/ opened successfully

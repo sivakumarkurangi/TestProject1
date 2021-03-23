@@ -1,0 +1,4 @@
+com.surveillance.utilitiy.GenericKeywords.openBrowser(GenericKeywords.java:67)evel	2021-02-16 19:44:22 LoginTest: openBrowser action is started
+com.surveillance.utilitiy.GenericKeywords.openBrowser(GenericKeywords.java:112)evel	2021-02-16 19:44:25 LoginTest: Chrome launched successfully
+com.surveillance.utilitiy.GenericKeywords.openURL(GenericKeywords.java:225)evel	2021-02-16 19:44:25 LoginTest: Enter the URL action is started
+com.surveillance.utilitiy.GenericKeywords.openURL(GenericKeywords.java:227)evel	2021-02-16 19:44:30 LoginTest: https://qa.liveviewtech.com/ opened successfully

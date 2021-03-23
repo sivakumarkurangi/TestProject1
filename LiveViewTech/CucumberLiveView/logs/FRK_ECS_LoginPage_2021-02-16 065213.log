@@ -1,0 +1,5 @@
+com.surveillance.utilitiy.GenericKeywords.highlightElement(GenericKeywords.java:299)evel	2021-02-16 18:52:13 LoginPage: highlightElement action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:134)evel	2021-02-16 18:52:13 LoginPage: find element action is started
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:135)evel	2021-02-16 18:52:13 LoginPage: locator indicator is : xpath
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:136)evel	2021-02-16 18:52:13 LoginPage: locator value is : //*[@id="email"]
+com.surveillance.utilitiy.GenericKeywords.elementFind(GenericKeywords.java:167)evel	2021-02-16 18:52:13 LoginPage: element is not found:java.lang.NullPointerException

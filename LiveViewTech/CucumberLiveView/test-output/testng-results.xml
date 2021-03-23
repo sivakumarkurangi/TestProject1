@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33095" started-at="2021-02-16T16:49:11Z" finished-at="2021-02-16T16:49:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33095" started-at="2021-02-16T16:49:11Z" finished-at="2021-02-16T16:49:44Z">
+      <class name="cucmberDemo1.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:cucmberDemo1.LoginTest@59fa1d9b]" name="setUp" is-config="true" duration-ms="228" started-at="2021-02-16T22:19:11Z" finished-at="2021-02-16T22:19:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUpClass1()[pri:0, instance:cucmberDemo1.LoginTest@59fa1d9b]" name="setUpClass1" is-config="true" duration-ms="218" started-at="2021-02-16T22:19:11Z" finished-at="2021-02-16T22:19:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass1 -->
+        <test-method status="PASS" signature="startReport()[pri:0, instance:cucmberDemo1.LoginTest@59fa1d9b]" name="startReport" is-config="true" duration-ms="9" started-at="2021-02-16T22:19:11Z" finished-at="2021-02-16T22:19:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:cucmberDemo1.LoginTest@59fa1d9b]" name="setup" is-config="true" duration-ms="9564" started-at="2021-02-16T22:19:13Z" finished-at="2021-02-16T22:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginWithValidCredentials(java.util.Hashtable)[pri:0, instance:cucmberDemo1.LoginTest@59fa1d9b]" name="loginWithValidCredentials" duration-ms="8286" started-at="2021-02-16T22:19:22Z" data-provider="setData1" finished-at="2021-02-16T22:19:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Scenario Name=LoginTest1, TestID=TC_01, Password=Lvt12345678, Email=sclient927+FSAR@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:cucmberDemo1.LoginTest@59fa1d9b]" name="getResult" is-config="true" duration-ms="1555" started-at="2021-02-16T22:19:30Z" finished-at="2021-02-16T22:19:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginWithValidCredentials status=SUCCESS method=LoginTest.loginWithValidCredentials(java.util.Hashtable)[pri:0, instance:cucmberDemo1.LoginTest@59fa1d9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:cucmberDemo1.LoginTest@59fa1d9b]" name="setup" is-config="true" duration-ms="7014" started-at="2021-02-16T22:19:32Z" finished-at="2021-02-16T22:19:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginWithValidCredentials(java.util.Hashtable)[pri:0, instance:cucmberDemo1.LoginTest@59fa1d9b]" name="loginWithValidCredentials" duration-ms="3591" started-at="2021-02-16T22:19:39Z" data-provider="setData1" finished-at="2021-02-16T22:19:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Scenario Name=LoginTest1, TestID=TC_01, Password=Lvt12345678, Email=sclient927+FSAR@gmail.com1}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:cucmberDemo1.LoginTest@59fa1d9b]" name="getResult" is-config="true" duration-ms="1453" started-at="2021-02-16T22:19:43Z" finished-at="2021-02-16T22:19:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginWithValidCredentials status=SUCCESS method=LoginTest.loginWithValidCredentials(java.util.Hashtable)[pri:0, instance:cucmberDemo1.LoginTest@59fa1d9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:cucmberDemo1.LoginTest@59fa1d9b]" name="AfterClass" is-config="true" duration-ms="1" started-at="2021-02-16T22:19:44Z" finished-at="2021-02-16T22:19:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:cucmberDemo1.LoginTest@59fa1d9b]" name="endReport" is-config="true" duration-ms="4322" started-at="2021-02-16T22:19:44Z" finished-at="2021-02-16T22:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- cucmberDemo1.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
